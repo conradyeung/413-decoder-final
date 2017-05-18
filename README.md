@@ -4,13 +4,12 @@ CMPT 413
 Dec 14 2016
 
 Matt Hannah
-mmh3@sfu.ca
 Conrad Yeung
-conrad_y@sfu.ca
 
 A Chinese to English machine translation system using a filtered phrase decoding system that uses a reranking feedback loop to train weighted features for the decoder.
 
 Full experiment results and findings located in project paper below.
+
 https://github.com/conradyeung/413-decoder-final/blob/master/project.pdf
 
 To run, use    
